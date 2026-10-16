@@ -1,0 +1,21 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+_pycache_/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Local database
+db.sqlite3
+
+# Generated files
+staticfiles/
+.DS_Store

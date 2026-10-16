@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360">
+  <!-- Desk -->
+  <rect x="40" y="290" width="400" height="16" rx="6" fill="rgba(255,255,255,0.22)" />
+  <rect x="70" y="306" width="16" height="40" fill="rgba(255,255,255,0.18)" />
+  <rect x="394" y="306" width="16" height="40" fill="rgba(255,255,255,0.18)" />
+
+  <!-- Books stack -->
+  <rect x="330" y="250" width="90" height="16" rx="4" fill="#fff" opacity="0.9" />
+  <rect x="336" y="234" width="78" height="16" rx="4" fill="#ffe1c2" />
+  <rect x="342" y="218" width="66" height="16" rx="4" fill="#0b0b0e" />
+
+  <!-- Plant -->
+  <rect x="60" y="256" width="34" height="34" rx="6" fill="#0b0b0e" />
+  <circle cx="77" cy="240" r="10" fill="#7fbf8f" />
+  <circle cx="66" cy="248" r="8" fill="#8fd19e" />
+  <circle cx="90" cy="248" r="8" fill="#8fd19e" />
+
+  <!-- Laptop -->
+  <rect x="150" y="248" width="120" height="8" rx="3" fill="#0b0b0e" />
+  <path d="M158 248 L168 190 L252 190 L262 248 Z" fill="#ffffff" opacity="0.95" />
+  <path d="M168 196 L252 196 L260 242 L160 242 Z" fill="#0b0b0e" />
+
+  <!-- Desk chair -->
+  <rect x="180" y="256" width="60" height="10" rx="4" fill="rgba(255,255,255,0.25)" />
+
+  <!-- Student body -->
+  <rect x="188" y="150" width="64" height="90" rx="26" fill="#ffffff" />
+  <rect x="200" y="150" width="40" height="24" rx="10" fill="#fde9ec" />
+
+  <!-- Head -->
+  <circle cx="220" cy="118" r="34" fill="#f3c89a" />
+  <path d="M186 116 a34 34 0 0 1 68 0 c0 -14 -10 -30 -34 -30 s-34 16 -34 30 Z" fill="#2a1b10" />
+  <path d="M186 118 c-4 30 4 52 4 52 l10 -6 c-4 -18 -4 -34 -4 -34 Z" fill="#2a1b10" />
+
+  <!-- Molecule / science accent, top right -->
+  <circle cx="360" cy="86" r="8" fill="#ffffff" opacity="0.9" />
+  <circle cx="392" cy="70" r="6" fill="#ffe1c2" />
+  <circle cx="392" cy="106" r="6" fill="#ffe1c2" />
+  <line x1="360" y1="86" x2="392" y2="70" stroke="#ffffff" stroke-width="2" opacity="0.7" />
+  <line x1="360" y1="86" x2="392" y2="106" stroke="#ffffff" stroke-width="2" opacity="0.7" />
+
+  <!-- Sparkle accents -->
+  <circle cx="120" cy="80" r="5" fill="#ffffff" opacity="0.85" />
+  <circle cx="150" cy="60" r="3" fill="#ffe1c2" />
+  <circle cx="420" cy="180" r="4" fill="#ffffff" opacity="0.7" />
+  <circle cx="60" cy="150" r="3" fill="#ffffff" opacity="0.6" />
+</svg>
